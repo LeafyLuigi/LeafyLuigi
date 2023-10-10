@@ -1,3 +1,5 @@
+# Do not interact with me if you know me IRL.
+
 ### Hi there, rando! 👋
 
 - I’m currently working on a theme for Discord called "[Pyrite](https://github.com/LeafyLuigi/discord-themes/tree/master/pyrite)". Support server is linked in the repo.
